@@ -7,7 +7,7 @@ mongoose.connect("mongodb://localhost/workout", {
  
 });
 
-mongodb+srv://carefree2706:donaldwu0512<>@cluster0.g0gac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+// mongodb+srv://carefree2706:donaldwu0512<>@cluster0.g0gac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
 
 
 let workoutSeed = [

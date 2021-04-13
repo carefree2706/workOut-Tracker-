@@ -11,6 +11,14 @@
 8. [Questions](#questions)
 
 
+# Screenshot :
+
+|Fitness Tracker Home Page| Workout Dashboard
+|--|--
+|![Fitness Tracker](public/assets/fitnesstracker.png)|![Fitness Tracker Dashboard](public/assets/workoutdashboard.png)
+
+# Deployed Website: 
+[Fitness Tracker](https://powerful-springs-80879.herokuapp.com/)
 
 ## Project Description
 The tracker focus on providing the user datas so they are able to achieve their goals. The users are able to track the following
