@@ -4,7 +4,11 @@ let db = require("../models");
 mongoose.connect("mongodb://localhost/workout", {
   useNewUrlParser: true,
   useFindAndModify: false
+ 
 });
+
+mongodb+srv://carefree2706:donaldwu0512<>@cluster0.g0gac.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
 
 let workoutSeed = [
   {
